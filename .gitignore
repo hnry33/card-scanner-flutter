@@ -8,3 +8,6 @@ pubspec.lock
 example/android/app/release/
 
 build/
+
+
+android/.idea/*
